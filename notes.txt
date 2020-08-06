@@ -1,0 +1,4 @@
+#chnage colour of certain pixels using fancy indexing
+#fancy indexing creates a copy of the array
+plt.imshow(RR, cmap = plt.cm.gray)
+
